@@ -1,0 +1,254 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.appcompras"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:7:5-67
+11-->[com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:5-79
+12-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+14-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:5-79
+14-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:22-76
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+15-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:22-107
+16
+17    <permission
+17-->[androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+18        android:name="com.example.appcompras.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.example.appcompras.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:5:5-30:19
+24        android:allowBackup="true"
+24-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:7:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:8:9-65
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:fullBackupContent="@xml/backup_rules"
+29-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:9:9-54
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:10:9-43
+31        android:label="@string/app_name"
+31-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:11:9-41
+32        android:localeConfig="@xml/locales_config"
+32-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:6:9-51
+33        android:supportsRtl="true"
+33-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:12:9-35
+34        android:testOnly="true"
+35        android:theme="@style/Theme.RecyclerViewSample" >
+35-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:13:9-56
+36        <activity
+36-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:15:9-17:39
+37            android:name="com.example.appcompras.DetalhesItemActivity"
+37-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:16:13-71
+38            android:exported="true" />
+38-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:17:13-36
+39        <activity
+39-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:18:9-20:39
+40            android:name="com.example.appcompras.CriarItemActivity"
+40-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:19:13-68
+41            android:exported="true" />
+41-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:20:13-36
+42        <activity
+42-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:21:9-29:20
+43            android:name="com.example.appcompras.MainActivity"
+43-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:22:13-63
+44            android:exported="true" >
+44-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:23:13-36
+45            <intent-filter>
+45-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:24:13-28:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:25:17-69
+46-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:25:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:27:17-77
+48-->C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:27:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <service
+52-->[com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:21:9-27:19
+53            android:name="com.google.firebase.components.ComponentDiscoveryService"
+53-->[com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:22:13-84
+54            android:directBootAware="true"
+54-->[com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+55            android:exported="false" >
+55-->[com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:23:13-37
+56            <meta-data
+56-->[com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:24:13-26:85
+57                android:name="com.google.firebase.components:com.google.firebase.crashlytics.ktx.FirebaseCrashlyticsKtxRegistrar"
+57-->[com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:25:17-130
+58                android:value="com.google.firebase.components.ComponentRegistrar" />
+58-->[com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:26:17-82
+59            <meta-data
+59-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:11:13-13:85
+60                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+60-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:12:17-126
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:13:17-82
+62            <meta-data
+62-->[com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:15:13-17:85
+63                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+63-->[com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:16:17-115
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:17:17-82
+65            <meta-data
+65-->[com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:25:13-27:85
+66                android:name="com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar"
+66-->[com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:26:17-117
+67                android:value="com.google.firebase.components.ComponentRegistrar" />
+67-->[com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:27:17-82
+68            <meta-data
+68-->[com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:14:13-16:85
+69                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+69-->[com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:15:17-113
+70                android:value="com.google.firebase.components.ComponentRegistrar" />
+70-->[com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:16:17-82
+71            <meta-data
+71-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:31:13-33:85
+72                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+72-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:32:17-139
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:33:17-82
+74            <meta-data
+74-->[com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:15:13-17:85
+75                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+75-->[com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:16:17-127
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:17:17-82
+77            <meta-data
+77-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:27:13-29:85
+78                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+78-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:28:17-115
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:29:17-82
+80        </service>
+81
+82        <provider
+82-->[com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+83            android:name="com.google.firebase.provider.FirebaseInitProvider"
+83-->[com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+84            android:authorities="com.example.appcompras.firebaseinitprovider"
+84-->[com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+85            android:directBootAware="true"
+85-->[com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+86            android:exported="false"
+86-->[com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+87            android:initOrder="100" />
+87-->[com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+88
+89        <receiver
+89-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:29:9-33:20
+90            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+90-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:30:13-85
+91            android:enabled="true"
+91-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:31:13-35
+92            android:exported="false" >
+92-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:32:13-37
+93        </receiver>
+94
+95        <service
+95-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:35:9-38:40
+96            android:name="com.google.android.gms.measurement.AppMeasurementService"
+96-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:36:13-84
+97            android:enabled="true"
+97-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:37:13-35
+98            android:exported="false" />
+98-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:38:13-37
+99        <service
+99-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:39:9-43:72
+100            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+100-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:40:13-87
+101            android:enabled="true"
+101-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:41:13-35
+102            android:exported="false"
+102-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:42:13-37
+103            android:permission="android.permission.BIND_JOB_SERVICE" />
+103-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:43:13-69
+104
+105        <meta-data
+105-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+106            android:name="com.google.android.gms.version"
+106-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+107            android:value="@integer/google_play_services_version" />
+107-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+108
+109        <service
+109-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+110            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+110-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+111            android:exported="false" >
+111-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+112            <meta-data
+112-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+113                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+113-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+114                android:value="cct" />
+114-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+115        </service>
+116
+117        <provider
+117-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+118            android:name="androidx.startup.InitializationProvider"
+118-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+119            android:authorities="com.example.appcompras.androidx-startup"
+119-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+120            android:exported="false" >
+120-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+121            <meta-data
+121-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+122                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+122-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+123                android:value="androidx.startup" />
+123-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+124            <meta-data
+124-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+125                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+125-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+126                android:value="androidx.startup" />
+126-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+127        </provider>
+128
+129        <service
+129-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+130            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+130-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+131            android:exported="false"
+131-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+132            android:permission="android.permission.BIND_JOB_SERVICE" >
+132-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+133        </service>
+134
+135        <receiver
+135-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+136            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+136-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
+137            android:exported="false" />
+137-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+138    </application>
+139
+140</manifest>

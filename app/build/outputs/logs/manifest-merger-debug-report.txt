@@ -1,0 +1,599 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:15:1-30:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9fdc039947e1034142fa1ae56e3b8085\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\a010ff2acf6399e8d002cf3e0897e90a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\520f78a97bbc72bed7faede7260156b0\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\0e47e741b03b91efee206f5e68671a4c\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ac176322e9dbf6f2da3755c2596f540f\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ca7adb30b77f052da2aefd2c6706ae06\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\8d8738837ec9367c590ec81f2eb3340e\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\e3413c30af6b2f900c827b848adc2f6d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\0279f59aa9e5c95d372b719e3bb10427\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\20d49859f71dd5284ce0e8143f34530f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ccb661a53380cb4ec4abc52da43f9ed9\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\14c5e4d887eb638e0715956e06b1a74a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\770ccf0add2a73fa23f7e249ed27ecf9\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\cwbdougler\.gradle\caches\transforms-3\4e4e0273d4559aab2044534b35238fcb\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\163b8fc7ae73de9e8e747dc665a16621\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\7f972bceb85a1d553fadf45f875acf33\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\040e8d75261f7c102009735137944cc9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\767043e0926808530916425b30bcf9da\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\6b468233535a1142a6663eea2ed856b3\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\2f7a8eaef31655bc2d51019bfdac747f\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\4aaf5179e6e435e6cd82930944f2a21a\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ee2e9592391ab99950314ed386558b51\transformed\datastore-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\70f65544e414b2d760467195b47ce668\transformed\firebase-encoders-json-18.0.1\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\531bfd09e6354cd3b60f9b11df3799b5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\9748b7aab421b098ee844ae9db115633\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\fe455524f73fe0210d291c8aef09d091\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\4bac9d0e2e30dade63944729f476d96a\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\d1d63190efdda9cddb6c3bc40e372384\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\736ff89447ae818e0e9ec86fa3373a66\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\0907d853122bb5c8ed7fadab1d4bd79d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\f5aaea37552202c3e10c6c8be98d44a2\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\291cc28ec26e133eaa61a465dd884192\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\c91e1468116b6c409a4d047b712b2d06\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ab9da24e01e6955ae167faf95d3b27d0\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\24451b88a346f180d22e851c8b4a1a3a\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\cfd0235ca9884487ea3088c0e8916f65\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\ffb7a368e1bfe9f5bf92076a82b3ef84\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\772086534d1d8153635e7578a9325fd4\transformed\firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\34c76e705cd94cf71ce596787d286864\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\efa0d3afa0a50d0fa2500eb1da14a1f5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9aade6736c90a57aa6541f5c39c8812f\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\261e15040193e4f8862c7195a59ac72a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\4bd4bb60b5f71b0ea047acb340654527\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\f69630896228f65405aa6d8f7d2d6d39\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\83ca0a2606bb5bf74b679a16509a84dc\transformed\transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\cd7a9947b5fc5192ebeda8812baa8a4a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\c7cc3c43e7fcdd7fae86ba94f46ed909\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\3d5171747354942d575d7540dcaf44a5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\d3aad637129270c348df08e360d267fe\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\edf77decbb00b90fe33f9d9c40d91697\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:20:5-28:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:20:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9fdc039947e1034142fa1ae56e3b8085\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9fdc039947e1034142fa1ae56e3b8085\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\a010ff2acf6399e8d002cf3e0897e90a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\a010ff2acf6399e8d002cf3e0897e90a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ca7adb30b77f052da2aefd2c6706ae06\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ca7adb30b77f052da2aefd2c6706ae06\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\e3413c30af6b2f900c827b848adc2f6d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\e3413c30af6b2f900c827b848adc2f6d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\0279f59aa9e5c95d372b719e3bb10427\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\0279f59aa9e5c95d372b719e3bb10427\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\20d49859f71dd5284ce0e8143f34530f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\20d49859f71dd5284ce0e8143f34530f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ccb661a53380cb4ec4abc52da43f9ed9\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ccb661a53380cb4ec4abc52da43f9ed9\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\14c5e4d887eb638e0715956e06b1a74a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\14c5e4d887eb638e0715956e06b1a74a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\770ccf0add2a73fa23f7e249ed27ecf9\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\770ccf0add2a73fa23f7e249ed27ecf9\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\34c76e705cd94cf71ce596787d286864\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\34c76e705cd94cf71ce596787d286864\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\efa0d3afa0a50d0fa2500eb1da14a1f5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\efa0d3afa0a50d0fa2500eb1da14a1f5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:localeConfig
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:6:9-51
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:9:9-54
+	tools:targetApi
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:13:9-56
+	android:dataExtractionRules
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:8:9-65
+activity#com.example.appcompras.DetalhesItemActivity
+ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:15:9-17:39
+	android:exported
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:16:13-71
+activity#com.example.appcompras.CriarItemActivity
+ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:18:9-20:39
+	android:exported
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:19:13-68
+activity#com.example.appcompras.MainActivity
+ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:22:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9fdc039947e1034142fa1ae56e3b8085\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9fdc039947e1034142fa1ae56e3b8085\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\a010ff2acf6399e8d002cf3e0897e90a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\a010ff2acf6399e8d002cf3e0897e90a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\520f78a97bbc72bed7faede7260156b0\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\520f78a97bbc72bed7faede7260156b0\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\0e47e741b03b91efee206f5e68671a4c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\0e47e741b03b91efee206f5e68671a4c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ac176322e9dbf6f2da3755c2596f540f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ac176322e9dbf6f2da3755c2596f540f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ca7adb30b77f052da2aefd2c6706ae06\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ca7adb30b77f052da2aefd2c6706ae06\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\8d8738837ec9367c590ec81f2eb3340e\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\8d8738837ec9367c590ec81f2eb3340e\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\e3413c30af6b2f900c827b848adc2f6d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\e3413c30af6b2f900c827b848adc2f6d\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\0279f59aa9e5c95d372b719e3bb10427\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\0279f59aa9e5c95d372b719e3bb10427\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\20d49859f71dd5284ce0e8143f34530f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\20d49859f71dd5284ce0e8143f34530f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ccb661a53380cb4ec4abc52da43f9ed9\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ccb661a53380cb4ec4abc52da43f9ed9\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\14c5e4d887eb638e0715956e06b1a74a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\14c5e4d887eb638e0715956e06b1a74a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\770ccf0add2a73fa23f7e249ed27ecf9\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\770ccf0add2a73fa23f7e249ed27ecf9\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\cwbdougler\.gradle\caches\transforms-3\4e4e0273d4559aab2044534b35238fcb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\cwbdougler\.gradle\caches\transforms-3\4e4e0273d4559aab2044534b35238fcb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\163b8fc7ae73de9e8e747dc665a16621\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\163b8fc7ae73de9e8e747dc665a16621\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\7f972bceb85a1d553fadf45f875acf33\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\7f972bceb85a1d553fadf45f875acf33\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\040e8d75261f7c102009735137944cc9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\040e8d75261f7c102009735137944cc9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\767043e0926808530916425b30bcf9da\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\767043e0926808530916425b30bcf9da\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\6b468233535a1142a6663eea2ed856b3\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\6b468233535a1142a6663eea2ed856b3\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\2f7a8eaef31655bc2d51019bfdac747f\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\2f7a8eaef31655bc2d51019bfdac747f\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\4aaf5179e6e435e6cd82930944f2a21a\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\4aaf5179e6e435e6cd82930944f2a21a\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ee2e9592391ab99950314ed386558b51\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ee2e9592391ab99950314ed386558b51\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\70f65544e414b2d760467195b47ce668\transformed\firebase-encoders-json-18.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\70f65544e414b2d760467195b47ce668\transformed\firebase-encoders-json-18.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\531bfd09e6354cd3b60f9b11df3799b5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\531bfd09e6354cd3b60f9b11df3799b5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\9748b7aab421b098ee844ae9db115633\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\9748b7aab421b098ee844ae9db115633\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\fe455524f73fe0210d291c8aef09d091\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\fe455524f73fe0210d291c8aef09d091\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\4bac9d0e2e30dade63944729f476d96a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\4bac9d0e2e30dade63944729f476d96a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\d1d63190efdda9cddb6c3bc40e372384\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\d1d63190efdda9cddb6c3bc40e372384\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\736ff89447ae818e0e9ec86fa3373a66\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\736ff89447ae818e0e9ec86fa3373a66\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\0907d853122bb5c8ed7fadab1d4bd79d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\0907d853122bb5c8ed7fadab1d4bd79d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\f5aaea37552202c3e10c6c8be98d44a2\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\f5aaea37552202c3e10c6c8be98d44a2\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\291cc28ec26e133eaa61a465dd884192\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\291cc28ec26e133eaa61a465dd884192\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\c91e1468116b6c409a4d047b712b2d06\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\c91e1468116b6c409a4d047b712b2d06\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ab9da24e01e6955ae167faf95d3b27d0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\ab9da24e01e6955ae167faf95d3b27d0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\24451b88a346f180d22e851c8b4a1a3a\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\24451b88a346f180d22e851c8b4a1a3a\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\cfd0235ca9884487ea3088c0e8916f65\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\cfd0235ca9884487ea3088c0e8916f65\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\ffb7a368e1bfe9f5bf92076a82b3ef84\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\ffb7a368e1bfe9f5bf92076a82b3ef84\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\772086534d1d8153635e7578a9325fd4\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\772086534d1d8153635e7578a9325fd4\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\34c76e705cd94cf71ce596787d286864\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\34c76e705cd94cf71ce596787d286864\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\efa0d3afa0a50d0fa2500eb1da14a1f5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\efa0d3afa0a50d0fa2500eb1da14a1f5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9aade6736c90a57aa6541f5c39c8812f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9aade6736c90a57aa6541f5c39c8812f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\261e15040193e4f8862c7195a59ac72a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\261e15040193e4f8862c7195a59ac72a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\4bd4bb60b5f71b0ea047acb340654527\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\4bd4bb60b5f71b0ea047acb340654527\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\f69630896228f65405aa6d8f7d2d6d39\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\f69630896228f65405aa6d8f7d2d6d39\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\83ca0a2606bb5bf74b679a16509a84dc\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\83ca0a2606bb5bf74b679a16509a84dc\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\cd7a9947b5fc5192ebeda8812baa8a4a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\cd7a9947b5fc5192ebeda8812baa8a4a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\c7cc3c43e7fcdd7fae86ba94f46ed909\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\c7cc3c43e7fcdd7fae86ba94f46ed909\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\3d5171747354942d575d7540dcaf44a5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\3d5171747354942d575d7540dcaf44a5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\d3aad637129270c348df08e360d267fe\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\d3aad637129270c348df08e360d267fe\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\edf77decbb00b90fe33f9d9c40d91697\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\edf77decbb00b90fe33f9d9c40d91697\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+		ADDED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+		INJECTED from C:\temp\AppCompras\AppCompras\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:21:9-27:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:23:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:22:13-84
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.ktx.FirebaseCrashlyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:24:13-26:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:26:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\bf59968a0752d7ae8ace1fc6bf8d813f\transformed\firebase-crashlytics-ktx-18.4.1\AndroidManifest.xml:25:17-130
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\2c923c38901ef2ed98e72159c73167bc\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:12:17-126
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:7:22-64
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\57a6b02328041197474569907f83c06c\transformed\firebase-crashlytics-18.4.1\AndroidManifest.xml:16:17-115
+meta-data#com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar
+ADDED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-sessions:1.0.2] C:\Users\cwbdougler\.gradle\caches\transforms-3\4137a218486bf4dce46922363fd0bda4\transformed\firebase-sessions-1.0.2\AndroidManifest.xml:26:17-117
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc832515932f4d2124c22bd034b8923e\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:15:17-113
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\20d49859f71dd5284ce0e8143f34530f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\20d49859f71dd5284ce0e8143f34530f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\9ccd2c68657da54101b822f532f41694\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\75d71d813d01637b1d0611e573cf5da6\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\cwbdougler\.gradle\caches\transforms-3\f73c92d061032095bd0d18c6d58f96ad\transformed\firebase-installations-17.1.4\AndroidManifest.xml:16:17-127
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.8] C:\Users\cwbdougler\.gradle\caches\transforms-3\0b291ae941ad786ad72afffa9d879256\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:28:17-115
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\cwbdougler\.gradle\caches\transforms-3\17f126d3c3f1f38601e352dc655ed04e\transformed\firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\5ab33fb6d0c22b58c6c710390ebfe68c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\623cf434fe762df7892820788e786c4f\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\a703fd702069a51ad83821e1ef1fab81\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\c2666a0b392cef524f1b2d35c0ed34f3\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\efa0d3afa0a50d0fa2500eb1da14a1f5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\efa0d3afa0a50d0fa2500eb1da14a1f5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\183d561f857d761b8efbaeaf8058e8da\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.appcompras.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.appcompras.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\cwbdougler\.gradle\caches\transforms-3\b8549cbecece16cb79d30f145e2d1a63\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\cwbdougler\.gradle\caches\transforms-3\29fc84e0ed81ed7050909c78718bd622\transformed\transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cwbdougler\.gradle\caches\transforms-3\fc91582f9f0643e9fbcd00542170ad31\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
